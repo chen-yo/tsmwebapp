@@ -1,0 +1,23 @@
+.table.users-table {
+  max-width: 600px;
+  width: 100%;
+  border-radius: 5px;
+}
+
+.table-hover.users-table tbody tr:hover {
+  background-color: wheat;
+}
+
+.add-user {
+  max-width: 600px;
+  margin-bottom: 50px;
+}
+
+.add-user input {
+  flex: 1 0;
+  margin-right: 15px;
+}
+
+.add-user .invalid-feedback {
+  padding-left: 45px;
+}

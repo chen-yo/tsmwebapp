@@ -1,0 +1,20 @@
+.navbar {
+    max-height: 50px;
+}
+
+.navbar-brand img {
+    width: 150px;
+}
+
+.navbar-brand {
+    padding-top: 0 !important;
+}
+
+.nav-link:hover, .nav-link.active {
+    background-color: wheat !important;
+    border-radius: 5px !important;
+}
+.navbar-nav a.nav-link:hover, a.nav-link.active{
+    color: #343a40 !important;
+
+}

@@ -1,0 +1,28 @@
+.is-warning-box {
+  border: 1px solid #d39e00 !important;
+}
+
+.warning-box {
+  min-width: 700px;
+  color: #d39e00;
+}
+
+.warning-box ul {
+  list-style: none;
+  padding: 5px;
+}
+
+ .warning-box .error-section {
+  border: 1px solid #d39e00 !important;
+  max-height: 100px;
+  overflow: auto;
+}
+
+input[id='days'] {
+  max-width: 400px !important;
+}
+
+textarea[id='dfpAdUnit'] {
+  height: 500px !important;
+  min-width: 500px;
+}
